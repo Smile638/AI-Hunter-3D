@@ -1,0 +1,6 @@
+# Keep secrets and the oversized standalone binaries out of this repo.
+# The playable zip is attached to a GitHub Release (or committed only if it stays under 100 MB).
+eos_keys.cfg
+*.exe
+*.pck
+*.dll
